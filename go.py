@@ -13,7 +13,7 @@ driver = webdriver.Chrome(chromedriver, chrome_options=chrome_options)
 
 name = input("Enter the name of manga to search - ").lower()
 name = name.split()
-driver.get("http://www8.mangafreak.net/Search/" + '%20'.join(name))
+driver.get("http://www9.mangafreak.net/Search/" + '%20'.join(name))
 
 while (1):
     try:

@@ -33,7 +33,7 @@ Inside variables.py (Mac OS X 10.9+):
 
 2. Enter Manga name to be searched
 
-     * After seaching the manga title the browser will redirect to a search page on *http://www8.mangafreak.net*
+     * After seaching the manga title the browser will redirect to a search page on *http://www9.mangafreak.net*
 
 3. Choose the index from the results 
 
