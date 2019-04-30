@@ -21,11 +21,12 @@ Inside variables.py (Mac OS X 10.9) + :
         chromedriver = "/Users/default-user/Documents/chromedriver_mac64/chromedriver"
 
 ## Local
-### NOTE: 
+#### NOTE: 
 
 *If a command is entered incorrectly the process for searching and downloading will reset
 * New chrome window is opened everytime
 
+#### Process
 1. Execute the script: `python3 go.py`
 
 Google chrome will open and display `data:,` in the URL parameter if successful
