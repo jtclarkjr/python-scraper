@@ -1,5 +1,5 @@
 # Scraper
-Python crawler that searchs and downloads manga/Manga in the command terminal
+Python crawler that searchs and downloads manga (command terminal)
 
 Data source from: *http://www8.mangafreak.net*
 
