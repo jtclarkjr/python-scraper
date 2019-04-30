@@ -24,7 +24,7 @@ Inside variables.py (Mac OS X 10.9+):
 #### NOTE: 
 
 * If a command is entered incorrectly the process for searching and downloading will reset
-* New chrome window is opened everytime
+* New chrome windows is opened everytime as a new executable
 
 #### Process
 1. Execute the script: `python3 go.py`
