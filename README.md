@@ -21,9 +21,10 @@ Inside variables.py (Mac OS X 10.9) + :
         chromedriver = "/Users/default-user/Documents/chromedriver_mac64/chromedriver"
 
 ## Local
-*NOTE:* If a command is entered incorrectly the process for searching and downloading will reset
+### NOTE: 
 
-        * New chrome window is opened everytime
+*If a command is entered incorrectly the process for searching and downloading will reset
+* New chrome window is opened everytime
 
 1. Execute the script: `python3 go.py`
 
