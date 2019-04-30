@@ -1,7 +1,7 @@
 # Scraper
 Python crawler that searchs and downloads manga (command terminal)
 
-Data source from: *http://www8.mangafreak.net*
+Data source from: *http://www9.mangafreak.net*
 
 ## Virtual env
 * Recommended for mac even with python3/ pip3 commands
