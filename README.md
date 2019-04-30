@@ -42,9 +42,6 @@ Inside variables.py (Mac OS X 10.9) + :
      * Browser will redirect to the chapter's page showing all chapters
 
      * Then display all chapters from terminal
-
 4. Select the chapter or press zero for a range of chapters
-
 5 Enter the chapter number you with to download from start to end (ex. chapter 1 to 5)
-
 6. Script will download the zip with the img files in them
