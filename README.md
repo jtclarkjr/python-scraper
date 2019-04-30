@@ -16,7 +16,7 @@ Data source from: *http://www8.mangafreak.net*
 Download chomedriver : https://chromedriver.storage.googleapis.com/index.html?path=2.40/
 unzip and copy the location of chromedriver in it and assign it to `chromedriver` in `variable.py`
 
-Inside variables.py (Mac OS X 10.9) + :   
+Inside variables.py (Mac OS X 10.9+):   
 
         chromedriver = "/Users/default-user/Documents/chromedriver_mac64/chromedriver"
 
