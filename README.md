@@ -1,5 +1,5 @@
 # Scraper
-Python crawler that searchs and downloads manga (command terminal)
+Python tool that searchs and downloads manga (command terminal)
 
 Data source from: *http://www9.mangafreak.net*
 
@@ -11,10 +11,10 @@ Data source from: *http://www9.mangafreak.net*
 4. `source env/bin/activate`
 
 ## Install Dependencies
-`pip3 install selenium fpdf`
+* `pip3 install selenium fpdf`
 
-Download chomedriver : https://chromedriver.storage.googleapis.com/index.html?path=2.40/
-unzip and copy the location of chromedriver in it and assign it to `chromedriver` in `variable.py`
+Download chomedriver from *https://chromedriver.storage.googleapis.com/index.html?path=2.40/*
+* Place the chromedriver file path `chromedriver` in the `variable.py` file
 
 Inside variables.py (Mac OS X 10.9+):   
 
