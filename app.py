@@ -3,7 +3,7 @@ import os
 import time
 import zipfile
 from fpdf import FPDF
-from variables import chromedriver
+from const import chromedriver
 
 chrome_options = webdriver.ChromeOptions()
 prefs = {'download.default_directory': os.getcwd()}

@@ -14,9 +14,9 @@ Data source from: *http://www9.mangafreak.net*
 * `pip3 install selenium fpdf`
 
 Download chomedriver from *https://chromedriver.storage.googleapis.com/index.html?path=2.40/*
-* Place the chromedriver file path `chromedriver` in the `variable.py` file
+* Place the chromedriver file path `chromedriver` in the `const.py` file
 
-Inside variables.py (Mac OS X 10.9+):   
+Inside const.py (Mac OS X 10.9+):   
 
         chromedriver = "/Users/Admin/Documents/chromedriver_mac64/chromedriver"
 
