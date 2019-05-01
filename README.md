@@ -26,7 +26,7 @@ Inside variables.py (Mac OS X 10.9+):
 * If a command is entered incorrectly the process for searching and downloading will reset
 * New chrome windows is opened everytime as a new executable
 
-#### Process
+#### Process:
 1. Execute the script: `python3 app.py`
 
      * Google chrome will open and display `data:,` in the URL parameter if successful
