@@ -1,1 +1,0 @@
-chromedriver = "/Users/Admin/Documents/chromedriver_mac64/chromedriver"
