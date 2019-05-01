@@ -27,7 +27,7 @@ Inside variables.py (Mac OS X 10.9+):
 * New chrome windows is opened everytime as a new executable
 
 #### Process
-1. Execute the script: `python3 go.py`
+1. Execute the script: `python3 app.py`
 
      * Google chrome will open and display `data:,` in the URL parameter if successful
 
