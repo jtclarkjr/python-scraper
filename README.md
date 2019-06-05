@@ -30,7 +30,7 @@ Data source from: *http://www9.mangafreak.net*
 
      * Google chrome will open and display `data:,` in the URL parameter if successful
 
-2. Enter Manga name to be searched
+2. Enter the name of a manga to search
 
      * After seaching the manga title the browser will redirect to a search page on *http://www9.mangafreak.net*
 
