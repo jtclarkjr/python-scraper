@@ -44,4 +44,4 @@ Data source from: *http://www9.mangafreak.net*
 4. Select the chapter or press zero for a range of chapters
 5. Enter the chapter number you wish to download from start to end (ex. chapter 1 to 5)
 6. Script will download the files
-     * makes zip file, then extractes to a folder, then compresses to a PDF file
+     * Makes a zip file, then extractes the contents to a folder, then compresses all images to a PDF file
