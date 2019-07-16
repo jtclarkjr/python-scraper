@@ -4,7 +4,7 @@ Python tool that searchs and downloads manga (command terminal)
 Data source from: *http://www9.mangafreak.net*
 
 ## Virtual env
-* Recommended for mac even with python3/ pip3 commands
+* Recommended for pc/mac/linux even with python3/ pip3 commands
 1. cd to main folder 
 2. `python3 -m pip install --user virtualenv`
 3. `python3 -m venv env`
