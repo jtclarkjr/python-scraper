@@ -1,7 +1,7 @@
 # Scraper
 Python tool that searchs and downloads manga (command terminal)
 
-Data source from: *http://www9.mangafreak.net*
+Data source from: *http://w12.mangafreak.net*
 
 ## Virtual env
 * Recommended even with python3/ pip3 commands (Windows/ Mac/ Linux)
@@ -32,7 +32,7 @@ Data source from: *http://www9.mangafreak.net*
 
 2. Enter the name of a manga to search
 
-     * After seaching the manga title the browser will redirect to a search page on *http://www9.mangafreak.net*
+     * After seaching the manga title the browser will redirect to a search page on *http://w12.mangafreak.net*
 
 3. Choose the index from the results 
 
