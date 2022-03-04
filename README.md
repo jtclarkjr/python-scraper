@@ -32,7 +32,7 @@ Data source from: *http://w12.mangafreak.net*
 
 2. Enter the name of a manga to search
 
-     * After seaching the manga title the browser will redirect to a search page on *http://w12.mangafreak.net*
+     * After seaching the manga title the browser will redirect to a search page on *https://w13.mangafreak.net/*
 
 3. Choose the index from the results 
 
